@@ -53,6 +53,9 @@
   .hero p {
     font-size: 0.9rem;
   }
+  .main-section {
+    gap: 6rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -151,6 +154,10 @@
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;
+  }
+
+  .email-box{
+    gap: 0;
   }
 
   .social-icons {

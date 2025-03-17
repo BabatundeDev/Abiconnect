@@ -624,6 +624,7 @@ span i {
   background: white;
   border-radius: 25px;
   padding: 5px 10px;
+  max-width: 250px;
   gap: 30px;
   margin-top: 1rem;
 }
