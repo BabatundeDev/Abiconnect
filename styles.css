@@ -631,6 +631,8 @@ span i {
   border-radius: 25px;
   padding: 8px;
   font-size: 1rem;
+  flex: 1;
+  max-width: 250px;
 }
 
 .email-box button {
