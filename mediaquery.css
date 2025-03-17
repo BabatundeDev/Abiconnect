@@ -161,6 +161,18 @@
     gap: 5px;
   }
 
+  .project-info h3 {
+    font-size: 12px;
+  }
+
+  .project-info p {
+    font-size: 8px;
+  }
+
+  .slide-btn{
+    font-size: 8px;
+  }
+
   .social-icons {
     justify-content: center;
   }
