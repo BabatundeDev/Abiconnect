@@ -588,7 +588,7 @@ span i {
 
 .footer-section {
   flex: 1;
-  min-width: 250px;
+  flex-wrap: wrap;
   margin: 10px;
 }
 

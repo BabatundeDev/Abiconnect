@@ -9,7 +9,6 @@
   .navbar {
     position: fixed;
     width: 100%;
-    height: 5rem;
   }
 
   .nav-menu-btn {
@@ -155,6 +154,7 @@
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;
+    padding: 50px 10px;
   }
 
   .email-box{
