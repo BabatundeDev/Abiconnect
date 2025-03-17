@@ -621,17 +621,14 @@ span i {
 .email-box {
   display: flex;
   align-items: center;
-  background: white;
-  border-radius: 25px;
-  padding: 5px 10px;
-  max-width: 250px;
-  gap: 30px;
+  gap: 10px;
   margin-top: 1rem;
 }
 
 .email-box input {
   border: none;
   outline: none;
+  border-radius: 25px;
   flex: 1;
   padding: 8px;
   font-size: 1rem;
