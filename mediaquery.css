@@ -6,6 +6,11 @@
     width: 100%;
   }
 
+  .navbar {
+    position: fixed;
+    width: 100%;
+  }
+
   .nav-menu-btn {
     display: block;
     z-index: 1000;
