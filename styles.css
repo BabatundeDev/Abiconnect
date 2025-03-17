@@ -592,7 +592,7 @@ span i {
   margin: 10px;
 }
 
-.footer p {
+.footer-section p {
   font-size: 0.9rem;
   color: #ddd;
   line-height: 1.5;
@@ -629,7 +629,6 @@ span i {
   border: none;
   outline: none;
   border-radius: 25px;
-  flex: 1;
   padding: 8px;
   font-size: 1rem;
 }
