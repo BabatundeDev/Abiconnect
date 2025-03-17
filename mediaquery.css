@@ -54,7 +54,7 @@
     font-size: 0.9rem;
   }
   .main-section {
-    gap: 6rem;
+    gap: 5rem;
   }
 }
 
@@ -166,11 +166,11 @@
   }
 
   .project-info p {
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .slide-btn{
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .social-icons {
